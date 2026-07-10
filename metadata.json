@@ -1,0 +1,6 @@
+{
+  "name": "OmniPrompt Generator",
+  "description": "An AI-powered generator that converts user intent (in any language) into optimized prompts for Image, Video, Text, and Website generation models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
